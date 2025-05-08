@@ -1,3 +1,4 @@
+#funcion actualizar
 def actualizar_producto(inventario, producto, nueva_cantidad):
     try:
         if producto not in inventario:
